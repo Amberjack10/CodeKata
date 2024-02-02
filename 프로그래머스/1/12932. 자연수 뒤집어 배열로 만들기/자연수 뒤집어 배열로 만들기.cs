@@ -1,6 +1,6 @@
 public class Solution {
     public int[] solution(long n) {
-        int[] temp = new int[11] { -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1 };
+        int[] temp = new int[11];
         int i = 0;
         
         for(i = 0; n > 0; i++, n /= 10){
