@@ -6,6 +6,7 @@ public class Solution {
             return answer;
         }
         
-        return answer;
+        // invalid Value
+        return -111111;
     }
 }
