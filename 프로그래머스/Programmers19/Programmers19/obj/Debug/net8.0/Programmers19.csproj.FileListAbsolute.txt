@@ -1,0 +1,14 @@
+C:\Users\babyg\Desktop\Coding\C#\Programmers19\Programmers19\bin\Debug\net8.0\Programmers19.exe
+C:\Users\babyg\Desktop\Coding\C#\Programmers19\Programmers19\bin\Debug\net8.0\Programmers19.deps.json
+C:\Users\babyg\Desktop\Coding\C#\Programmers19\Programmers19\bin\Debug\net8.0\Programmers19.runtimeconfig.json
+C:\Users\babyg\Desktop\Coding\C#\Programmers19\Programmers19\bin\Debug\net8.0\Programmers19.dll
+C:\Users\babyg\Desktop\Coding\C#\Programmers19\Programmers19\bin\Debug\net8.0\Programmers19.pdb
+C:\Users\babyg\Desktop\Coding\C#\Programmers19\Programmers19\obj\Debug\net8.0\Programmers19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babyg\Desktop\Coding\C#\Programmers19\Programmers19\obj\Debug\net8.0\Programmers19.AssemblyInfoInputs.cache
+C:\Users\babyg\Desktop\Coding\C#\Programmers19\Programmers19\obj\Debug\net8.0\Programmers19.AssemblyInfo.cs
+C:\Users\babyg\Desktop\Coding\C#\Programmers19\Programmers19\obj\Debug\net8.0\Programmers19.csproj.CoreCompileInputs.cache
+C:\Users\babyg\Desktop\Coding\C#\Programmers19\Programmers19\obj\Debug\net8.0\Programmers19.dll
+C:\Users\babyg\Desktop\Coding\C#\Programmers19\Programmers19\obj\Debug\net8.0\refint\Programmers19.dll
+C:\Users\babyg\Desktop\Coding\C#\Programmers19\Programmers19\obj\Debug\net8.0\Programmers19.pdb
+C:\Users\babyg\Desktop\Coding\C#\Programmers19\Programmers19\obj\Debug\net8.0\Programmers19.genruntimeconfig.cache
+C:\Users\babyg\Desktop\Coding\C#\Programmers19\Programmers19\obj\Debug\net8.0\ref\Programmers19.dll
