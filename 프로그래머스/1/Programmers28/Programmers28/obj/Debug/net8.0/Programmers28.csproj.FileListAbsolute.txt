@@ -1,0 +1,14 @@
+D:\workspace\Programmers28\Programmers28\bin\Debug\net8.0\Programmers28.exe
+D:\workspace\Programmers28\Programmers28\bin\Debug\net8.0\Programmers28.deps.json
+D:\workspace\Programmers28\Programmers28\bin\Debug\net8.0\Programmers28.runtimeconfig.json
+D:\workspace\Programmers28\Programmers28\bin\Debug\net8.0\Programmers28.dll
+D:\workspace\Programmers28\Programmers28\bin\Debug\net8.0\Programmers28.pdb
+D:\workspace\Programmers28\Programmers28\obj\Debug\net8.0\Programmers28.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Programmers28\Programmers28\obj\Debug\net8.0\Programmers28.AssemblyInfoInputs.cache
+D:\workspace\Programmers28\Programmers28\obj\Debug\net8.0\Programmers28.AssemblyInfo.cs
+D:\workspace\Programmers28\Programmers28\obj\Debug\net8.0\Programmers28.csproj.CoreCompileInputs.cache
+D:\workspace\Programmers28\Programmers28\obj\Debug\net8.0\Programmers28.dll
+D:\workspace\Programmers28\Programmers28\obj\Debug\net8.0\refint\Programmers28.dll
+D:\workspace\Programmers28\Programmers28\obj\Debug\net8.0\Programmers28.pdb
+D:\workspace\Programmers28\Programmers28\obj\Debug\net8.0\Programmers28.genruntimeconfig.cache
+D:\workspace\Programmers28\Programmers28\obj\Debug\net8.0\ref\Programmers28.dll
