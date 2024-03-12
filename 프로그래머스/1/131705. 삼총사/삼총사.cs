@@ -1,22 +1,43 @@
-using System;
+using System.Collections.Generic;
+using System.Linq;
 
 public class Solution
 {
+    private List<int> answer;
+    private int[] number;
     public int solution(int[] number)
     {
-        int answer = 0;
+        answer = new List<int>();
+        this.number = number;
 
-        for(int i = 0; i < number.Length - 2; ++i)
+        DFS(0, new bool[number.Length], 0);
+
+        return answer.Where(x => x == 0).Count();
+    }
+
+    private void DFS(int depth, bool[] depthCount, int start)
+    {
+        if (depth == 3)
         {
-            for(int j = i + 1; j < number.Length - 1; ++j)
+            int sum = 0;
+            for (int i = 0; i < depthCount.Length; i++)
             {
-                for(int k = j + 1; k < number.Length; ++k)
+                if (depthCount[i])
                 {
-                    if (number[i] + number[j] + number[k] == 0) ++answer;
+                    sum += number[i];
                 }
             }
+            answer.Add(sum);
         }
 
-        return answer;
+        for (int i = start; i < depthCount.Length; i++)
+        {
+            if (!depthCount[i])
+            {
+                depthCount[i] = true;
+                DFS(depth + 1, depthCount, i);
+                depthCount[i] = false;
+            }
+        }
     }
 }
